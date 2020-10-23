@@ -1,0 +1,20 @@
+{
+  "name": "discordium",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:tritiumNetworks/discordium.git",
+  "author": "pmh-only <pmhstudio.pmh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^6.1.0",
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-standard": "^15.0.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.2"
+  }
+}
