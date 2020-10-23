@@ -94,7 +94,7 @@ class GatewaySocket extends WebSocket {
    * @returns {void}
    */
   sendHeartbeat () {
-    this.send(JSON.stringify({ op: 11 }))
+    this.send(JSON.stringify({ op: 1 }))
   }
 }
 
