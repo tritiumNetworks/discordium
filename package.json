@@ -1,6 +1,6 @@
 {
   "name": "discordium",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "main": "index.js",
   "repository": "git@github.com:tritiumNetworks/discordium.git",
   "author": "pmh-only <pmhstudio.pmh@gmail.com>",
